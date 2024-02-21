@@ -1,4 +1,4 @@
-                                                                                  # This Porject idea was ihonspired by https://www.youtube.com/watch?v=CkkjXTER2KE
+                                                                                  # This Project idea was ihonspired by https://www.youtube.com/watch?v=CkkjXTER2KE
 
 import json 
 from difflib import get_close_matches                                             #Import necessary libraries to use for chatbot
