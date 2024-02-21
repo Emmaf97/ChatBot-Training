@@ -1,3 +1,20 @@
 {
-    "questions": []
+  "questions": [
+    {
+      "question": "Hello",
+      "answer": " Hey There!"
+    },
+    {
+      "question": "What is the capital of France?",
+      "answer": "Paris"
+    },
+    {
+      "question": "What is 2 plus 2?",
+      "answer": "4"
+    },
+    {
+      "question": "How are you?",
+      "answer": "good! Thanks for asking!"
+    }
+  ]
 }
